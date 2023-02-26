@@ -1,0 +1,6 @@
+INFO:root:Ran with ('John', 89) and {}
+INFO:root:Ran display_info with ('John', 89) and {}
+INFO:root:Ran display_info with ('smith', 69) and {}
+INFO:root:Ran display_company with ('Rahul', 'Google') and {}
+INFO:root:Ran display_company with ('Rahul', 'Google') and {}
+INFO:root:Ran wrapper_function with (1, 2) and {}
